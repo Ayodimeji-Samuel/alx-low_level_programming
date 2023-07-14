@@ -15,4 +15,5 @@ int main(void)
 	printf("size of a float: %lu byte(s)", sizeof(float));
 	return (0);
 }
-
+#!/bin/bash
+gcc -o size32
